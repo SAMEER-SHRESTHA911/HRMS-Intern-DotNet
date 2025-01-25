@@ -1,0 +1,6 @@
+@AttendanceAndLeave.WebAPI_HostAddress = http://localhost:5216
+
+GET {{AttendanceAndLeave.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

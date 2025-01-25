@@ -1,0 +1,6 @@
+@User.WebAPI_HostAddress = http://localhost:14650
+
+GET {{User.WebAPI_HostAddress}}/api/Address/GetAddressList/
+Accept: application/json
+
+###
